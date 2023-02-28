@@ -22,7 +22,7 @@ public class User {
     public User(String name,String password){
         this.name=name;
         this.password=password;
-    }//이거 정말 중요
+    }//생성자
     protected User(){}//필수
 }
 
