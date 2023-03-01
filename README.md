@@ -10,4 +10,6 @@
 <br>
 [4.타임딜 서버구축 챌린지 [사용자 탈퇴] on Velog(3/1)](https://velog.io/@kimjunsik333/4.-%ED%83%80%EC%9E%84%EB%94%9C-%EC%84%9C%EB%B2%84%EA%B5%AC%EC%B6%95-%EC%B1%8C%EB%A6%B0%EC%A7%80-%EC%82%AC%EC%9A%A9%EC%9E%90-%ED%83%88%ED%87%B4)
 <br>
+[5.타임딜 서버구축 챌린지 [상품 삭제] on Velog(3/1)](https://velog.io/@kimjunsik333/5.-%ED%83%80%EC%9E%84%EB%94%9C-%EC%84%9C%EB%B2%84%EA%B5%AC%EC%B6%95-%EC%B1%8C%EB%A6%B0%EC%A7%80-%EB%AC%BC%ED%92%88%EC%82%AD%EC%A0%9C)
+<br>
 ...
